@@ -5,7 +5,7 @@ Descarga el instalador desde [aqui](https://git-scm.com/)
 ### Instalar
 
 ## Para Windows
-![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in1.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in1.png)
 ![Step 2](https://github.com/Smartwiresmx/workshopGit/blob/master/in2.PNG)
 ![Step 3](https://github.com/Smartwiresmx/workshopGit/blob/master/in3.PNG)
 ![Step 4](https://github.com/Smartwiresmx/workshopGit/blob/master/in4.PNG)
