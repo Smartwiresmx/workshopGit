@@ -1,5 +1,8 @@
 # Bienvenidos a SmartWires
 
+Use esta guia para instalar Git
+
+
 Descarga el instalador desde [aqui](https://git-scm.com/)
 
 ### Instalar
