@@ -14,10 +14,14 @@ Descarga el instalador desde [aqui](https://git-scm.com/)
 ![Step 7](https://github.com/Smartwiresmx/workshopGit/blob/master/in7.PNG)
 ![Step 8](https://github.com/Smartwiresmx/workshopGit/blob/master/in8.PNG)
 ![Step 9](https://github.com/Smartwiresmx/workshopGit/blob/master/in9.PNG)
-![Step 10](https://github.com/Smartwiresmx/workshopGit/blob/master/in10.PNG)
+
 
 ## Para Ubuntu
 `apt-get install git`
 
 ## Para Fedora
 `yum install git`
+
+## Probar instalacion
+Ejecute el siguiente comando
+`git --version`
