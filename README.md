@@ -1,11 +1,26 @@
-## Welcome to SmartWires
+## Bienvenidos a SmartWires
 
-You can use the [editor on GitHub](https://github.com/Smartwiresmx/workshopGit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Descarga el instalador desde [aqui](https://git-scm.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instalar
 
+### Para Windows
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in1.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in2.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in3.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in4.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in5.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in6.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in7.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in8.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in9.PNG)
+![Step 1](https://github.com/Smartwiresmx/workshopGit/blob/master/in10.PNG)
 
-![Image](https://github.com/Smartwiresmx/workshopGit/in1.PNG)
+### Para Ubuntu
+`apt-get install git`
+
+### Para Fedora
+`yum install git`
 
 ### Markdown
 
